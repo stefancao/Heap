@@ -1,0 +1,11 @@
+1) compile the program
+	javac Main.java
+
+2) run the program with input_int_small.txt or input_int_large.txt
+	java Main input_int_small.txt	(one that test all functionalities)
+	or
+	java Main input_int_large.txt 	(this one only test for full heap exception)
+
+
+
+
